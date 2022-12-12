@@ -1,2 +1,1 @@
-﻿# L3CAutomationProductSetting
 
